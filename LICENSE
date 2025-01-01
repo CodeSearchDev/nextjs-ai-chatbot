@@ -1,46 +1,26 @@
-Advanced Open-Source License (AOSL)
+Advanced Open-Source License (AOSL)  
+Copyright (c) 2025 CODE SEARCH (@CodeSearchDev)  
 
-Copyright (c) 2025 [CODE SEARCH] (@CodeSearchDev)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including but not limited to the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including but not limited to the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+1. **Inclusion of Copyright and Attribution:**  
+   - The above copyright notice, this license, and a clear attribution to [CODE SEARCH] must be included in all copies, substantial portions, or derivative works of the Software.  
 
-1. Inclusion of Copyright and Attribution:
+2. **Distribution of Modified Versions:**  
+   - If you modify the Software, you must include a prominent notice stating the changes made, the date of the modifications, and retain the original copyright notice.  
+   - Modified versions must indicate that they are not the original Software provided by [CODE SEARCH].  
 
-The above copyright notice, this license, and a clear attribution to [CODE SEARCH] must be included in all copies, substantial portions, or derivative works of the Software.
+3. **Use of Repository Contributions:**  
+   - Contributions made to this repository, such as pull requests, issues, or feature suggestions, are licensed under this license unless explicitly stated otherwise by the contributor.  
 
+4. **Prohibition of Misrepresentation:**  
+   - The Software must not be used to misrepresent affiliation with or endorsement by [CODE SEARCH] unless prior written permission is obtained.  
 
-
-2. Distribution of Modified Versions:
-
-If you modify the Software, you must include a prominent notice stating the changes made, the date of the modifications, and retain the original copyright notice.
-
-Modified versions must indicate that they are not the original Software provided by [CODE SEARCH].
-
-
-
-3. Use of Repository Contributions:
-
-Contributions made to this repository, such as pull requests, issues, or feature suggestions, are licensed under this license unless explicitly stated otherwise by the contributor.
+5. **Software Integrity:**  
+   - The Software shall not be used for purposes that violate applicable laws, promote hate, or infringe on the intellectual property rights of others.  
 
 
+**Disclaimer:**  
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or its use.  
 
-4. Prohibition of Misrepresentation:
-
-The Software must not be used to misrepresent affiliation with or endorsement by [CODE SEARCH] unless prior written permission is obtained.
-
-
-
-5. Software Integrity:
-
-The Software shall not be used for purposes that violate applicable laws, promote hate, or infringe on the intellectual property rights of others.
-
-
-
-
-
----
-
-Disclaimer:
-The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or its use.
-
-For any questions, suggestions, or issues, please contact [CODE SEARCH] (@CodeSearchDev).
+For any questions, suggestions, or issues, please contact CODE SEARCH (@CodeSearchDev).
